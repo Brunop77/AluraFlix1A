@@ -1,14 +1,6 @@
 body {
     color: white;
-    background: black;
+    background: rgb(35, 150, 35);
     margin: 0px;
 }
 
-header {
-    border-bottom: solid 2px rgb(68, 229, 32);
-    padding: 20px;
-    font-size: 42px;
-    color: rgb(68, 229, 32);
-    text-align: center;
-    
-}
